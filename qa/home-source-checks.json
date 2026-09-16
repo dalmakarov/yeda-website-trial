@@ -1,0 +1,14 @@
+{
+  "one_h1": true,
+  "six_team_members": true,
+  "six_method_cards": true,
+  "three_reasons": true,
+  "two_local_videos": true,
+  "title": true,
+  "description": true,
+  "canonical": true,
+  "hreflang": true,
+  "json_ld_count": true,
+  "local_assets": true,
+  "forms_do_not_submit": true
+}

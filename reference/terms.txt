@@ -1,0 +1,110 @@
+Terms & Conditions – Yeda
+Effective date: August 14, 2026 Version: V3.1 Website: getyeda.com
+1) Service Provider (Identity)
+​
+Business name: Yeda BV Registered address: Tiensesteenweg 247, 3360 Bierbeek, Belgium VAT: BE1032162449 Support email:
+info@getyeda.com
+Support hours: Mon–Fri, 09:00–17:00 CET
+​
+2) Definitions
+​
+"Yeda", "we", "us" – the service provider identified above. "Customer" – the buyer of the service (parent/guardian for a minor Student, or an adult student). "Student" – the person attending the session (may be the same person as the Customer if adult). "Lesson" – an online 1:1 lesson (Math, English, Physics, or learning skills) structured as two 25-minute teaching blocks with a 30-minute independent work block in between (approx. 80 minutes total). "Practice Session" – an approx. 80-minute guided study block in which 2–4 students work independently in separate breakout rooms while a teacher rotates between them to provide feedback and guidance. "Learning Specialist Service" – observation and learning-related guidance by Yeda's learning specialist, working with the student, teacher, and parents. "Program" – a pre-defined bundle of a specified number of Lessons and, where agreed, add-on sessions (Practice Sessions and/or Learning Specialist Service), valid for 60 days from the Student's first session in the Program. Unless otherwise agreed in writing, Programs are structured this way.
+​
+3) Acceptance of Terms
+By booking a session or starting a program, you confirm that you have read, understood, and accepted these Terms. When purchasing for a minor Student, you confirm that you are legally authorized to do so. A minor Student may not independently enter into a paid Program or accept these Terms on behalf of the Customer.
+​
+4) Services
+Yeda provides online learning for teens (typically ages 13–18) delivered via Microsoft Teams or Zoom. Supporting materials may be shared via Microsoft 365/SharePoint/OneDrive.
+Getting started: Customers may begin with a free intake consultation, or with a reduced-price introductory lesson. If starting with the introductory lesson, a free consultation follows.
+Session types and durations:
+Lesson: approx. 80 minutes (25 min teaching + 30 min guided independent work + 25 min teaching)
+Practice Session: approx. 80 minutes (small group, independent work with rotating teacher guidance)
+Learning Specialist Service: format and scope agreed individually
+Learning Specialist disclaimer: the Learning Specialist Service provides educational observation and learning-related recommendations. It does not constitute medical, psychological, psychiatric or neurodevelopmental diagnosis or treatment, unless explicitly provided by an appropriately qualified professional under separate written terms.
+Yeda Student Card (optional): Customers may opt in to the Yeda Student Card, an internal tool that organizes information about the Student's learning journey to support our team's work. Participation is voluntary, requested via a standalone consent form, and governed by our Privacy Policy. Declining has no effect on service quality.
+​
+5) Eligibility & Access (No User Accounts)
+Customers do not create user accounts on our website. Sessions are booked through our lesson booking system, and attended via the meeting link we provide. The Customer is responsible for providing correct contact details during booking and for ensuring the Student joins with the correct link and on time. Programs are designed for teens (13–18).
+6) Programs, Billing & Usage
+Each Program specifies a fixed number of Lessons and, where applicable, add-on sessions, agreed at purchase.
+Programs are valid for 60 days from the Student's first session in the Program, unless otherwise agreed in writing. Unused sessions expire at the end of the validity period, subject to Section 8 (Refunds).
+Programs are billed in full at the time of purchase.
+Sessions charged under the cancellation policy (Section 7) count against the Program's included sessions at their charged value.
+At Yeda's discretion, a Customer may continue receiving sessions beyond their Program's included entitlement. The Customer is committed to pay for any such sessions. An invoice for these additional sessions is issued once the Customer's current Program entitlement has been completed.
+Where a different structure is needed (for example, an open-ended monthly arrangement without a fixed session count), this may be agreed in writing as an exception.
+Where sessions are prepaid, Yeda maintains internal records of remaining entitlements.
+​
+7) Booking, Cancellation & Lateness​
+Cancellation or rescheduling with at least 24 hours notice: no charge.
+Cancellation or rescheduling between 1 and 24 hours before the session: 50% of the session fee is charged.
+Cancellation less than 1 hour before the session, or a no-show: 100% of the session fee is charged.
+Extenuating circumstances are reviewed case by case.
+Student lateness: the teacher waits up to 10 minutes; the session still ends at the scheduled time.
+Yeda lateness/cancellation: if we are late by more than 10 minutes or must cancel, we will reschedule at no cost or credit the equivalent session.
+Customer-side technical issues: if the Student is unable to participate due to a Customer-side technical issue while the teacher remains available and reasonably attempts to establish an alternative connection for at least 10 minutes, the applicable late-cancellation or no-show charge may apply.
+Yeda-side technical issues: if a session cannot proceed due to a Yeda-side technical issue or platform-wide outage, no charge applies. Any prepaid entitlement is restored and a replacement session will be offered.
+​
+8) Prices, Payments & Refunds​
+Prices: Prices are expressed in USD or EUR depending on the market. The total price, including any applicable VAT or other mandatory taxes, will be shown or communicated to the Customer before the booking or purchase is confirmed and will appear on the invoice.
+Payment methods: bank transfer (wire/SEPA), Stripe (cards) and PayPal (if enabled). FX/bank fees on international transfers are borne by the Customer.
+Refunds: unused prepaid sessions can be converted to full credit toward a future payment at any time, at no cost. Alternatively, the Customer may request a cash refund of unused prepaid sessions, subject to a processing fee of 5% or $5/€5 (whichever is higher). The processing fee is waived where the refund results from Yeda's cancellation or failure to provide the service, or where a deduction is not legally permitted.
+Right of withdrawal (EU consumers): you may withdraw from a distance service contract within 14 days from the date the contract is concluded, without giving a reason. If you expressly request that Yeda begin providing services during the withdrawal period and later exercise the right of withdrawal, you must pay a proportionate amount for services provided before you informed us of your decision to withdraw. Where a service has been fully performed during the withdrawal period, the right of withdrawal is lost only where performance began with your prior express consent and your acknowledgement that the right would be lost once the service was fully performed. Refunds resulting from the statutory right of withdrawal are not subject to Yeda's standard processing fee. To exercise the right of withdrawal, contact
+info@getyeda.com
+or use the withdrawal option provided on our website.
+Refund handling: refunds (where applicable) are made via the original payment method when possible.
+No-shows & late cancellations: charged per Section 7 and non-refundable.
+Chargebacks: fraudulent or abusive chargebacks may result in temporary suspension while the matter is investigated and, where legally permitted, recovery of actual processing costs. This does not restrict the Customer's right to dispute an incorrect or unauthorized charge.
+​
+9) Technical Requirements
+Customer ensures a stable internet connection, a suitable device, microphone and camera, and a quiet environment. Use up-to-date versions of Microsoft Teams or Zoom and a modern web browser.
+​
+10) Conduct, Safety & Academic Integrity​
+Harassment, discrimination, inappropriate content, unauthorized recording, and sharing of materials are prohibited.
+For minor Students, the parent/guardian is the Customer of record and remains responsible for oversight and communications. Parent/guardian presence may be requested during onboarding for younger teens.
+Academic integrity: Yeda does not assist with cheating, ghost-writing, or taking exams on behalf of Students.
+Yeda may pause or terminate a session or Program where conduct creates a safety risk, involves harassment or serious disruption, or repeatedly prevents the service from being delivered. Where a Program is terminated, unused prepaid amounts remain refundable except for sessions already provided or chargeable under Section 7.
+​
+11) Intellectual Property
+All materials (lesson plans, assignments, tests, recordings if any) and software are the intellectual property of Yeda or its licensors. Materials are for the Student's personal use only and may not be distributed, published, sold, or used commercially without permission.
+​
+12) Recording & Privacy
+Sessions are not recorded without prior explicit consent, which is requested during onboarding. If recording occurs, we will inform you about purpose, retention and access.
+​
+13) Data Protection
+Yeda processes personal data in accordance with its Privacy Policy, available at getyeda.com. The Privacy Policy explains the categories of data processed, purposes and legal bases, recipients, international transfers, retention periods, data-subject rights, and the right to lodge a complaint with a competent supervisory authority. Separate consent is requested where required, including for recordings, marketing, testimonials, and the Yeda Student Card.
+​
+14) Liability & Disclaimer
+Yeda provides educational services for learning support and general information. We do not guarantee specific grades or outcomes; progress depends on the Student's effort.
+Nothing in these Terms excludes or limits liability for fraud, wilful misconduct, gross negligence, death or personal injury, breach of mandatory consumer or data-protection law, or any other liability that cannot legally be excluded or limited.
+Subject to the above and to the extent permitted by law, Yeda is not liable for indirect or consequential loss, nor for outages caused by third parties (ISPs, platforms). Yeda's aggregate liability for direct contractual loss is limited to the amount paid for the affected services during the 12 months preceding the event giving rise to the claim.
+​
+15) Complaints
+Complaints may be submitted to
+info@getyeda.com
+. We aim to acknowledge complaints within 5 business days and provide a substantive response within 15 business days.
+​
+16) Changes to Terms
+We may update these Terms for legal compliance or service improvements. Material changes will be communicated by email or another durable medium at least 14 days before they apply to an existing Program, unless an earlier change is required by law. Changes generally apply prospectively to future bookings and billing periods. The version accepted when a booking or purchase was made remains available on request.
+​
+17) Governing Law & Jurisdiction
+These Terms are governed by Belgian law. If you are a consumer, this choice of law does not deprive you of any mandatory protections granted by the law of the country in which you habitually reside. Nothing in these Terms limits any mandatory consumer rights concerning the courts before which a dispute may be brought. Where legally permitted, the courts of Leuven, Belgium have jurisdiction.
+If a clause is invalid, it is replaced with a valid one closest in purpose. These Terms + Privacy Policy form the entire agreement between Yeda and the Customer.
+18) Contact
+Email:
+info@getyeda.com
+Address: Tiensesteenweg 247, 3360 Bierbeek, Belgium
+© 2026 Yeda BV — Terms & Conditions
+​
+Facebook
+Instagram
+TikTok
+YouTube
+Main Office
+Tiensesteenweg 247
+Bierbeek, Belgium
+BE1032162449
++32467300331
+hello@getyeda.com
+Privacy Policy
+Terms & Conditions
+Blog

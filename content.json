@@ -1,0 +1,128 @@
+{
+  "plans": [
+    {
+      "name": "Independent",
+      "price": "$262",
+      "points": [
+        "2 lessons + 2 practice sessions, alternating weekly",
+        "15% lower than our per-lesson rate",
+        "Built for teens who already work well on their own",
+        "Everything above, every lesson"
+      ]
+    },
+    {
+      "name": "Standard",
+      "price": "$299",
+      "points": [
+        "1 lesson every week, 4 a month",
+        "15% lower than our per-lesson rate",
+        "Where most families start",
+        "Everything above, every lesson"
+      ]
+    },
+    {
+      "name": "Specialist",
+      "price": "$387",
+      "points": [
+        "1 lesson every week, plus a monthly full check-in with our specialist",
+        "20% lower than our per-lesson rate",
+        "Built for students who need an extra layer of oversight",
+        "Everything above, every lesson"
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "Start Here",
+      [
+        {
+          "question": "Who is Yeda for?",
+          "answer": "<p><span>Yeda is for teens ages 13–18</span> who need support in <span>Math and English</span>  whether they feel stuck, stressed, or simply want to stay ahead.<br/>\nWe help students who:</p>\n<ul>\n<li>\n<p>Need better focus and study habits</p>\n</li>\n<li>\n<p>Struggle with exam confidence or motivation</p>\n</li>\n<li>\n<p>Are already doing well but want structured guidance to keep excelling<br/>\nWhether it’s catching up or moving ahead, <span>Yeda gives teens the confidence and clarity to thrive.</span></p>\n</li>\n</ul>"
+        },
+        {
+          "question": "How is Yeda different from other tutoring services?",
+          "answer": "<p>Most tutoring is about content - we’re about the student. At <span>Yeda</span>:</p>\n<ul>\n<li>\n<p>We assess each teen’s learning style and match them with the right teacher (never random pairing).</p>\n</li>\n<li>\n<p>Our tutors are <span>experts in Math and English</span>, trained to also build confidence and motivation.</p>\n</li>\n<li>\n<p>We track progress closely, adjusting plans so no student falls behind.</p>\n</li>\n<li>\n<p>We support not just academics, but also the emotional side of learning reducing stress and building resilience.<br/>\n<span>Real success isn’t just grades - it’s confidence, focus, and growth.</span></p>\n</li>\n</ul>"
+        },
+        {
+          "question": "Is the first consultation really free?",
+          "answer": "<p>Yes - and it’s not a sales chat. Our free consultation is a real educational session designed to benefit both parent and teen.<br/>\nDuring the meeting, we:</p>\n<ul>\n<li>\n<p>Listen to your teen’s challenges and needs</p>\n</li>\n<li>\n<p>Share positive feedback and practical strategies they can use right away</p>\n</li>\n<li>\n<p>Show how Yeda’s programs can support their growth</p>\n</li>\n</ul>\n<p>Parents often tell us this first conversation is eye-opening - it helps them see their teen’s strengths more clearly, and teens leave feeling more understood and motivated.</p>"
+        },
+        {
+          "question": "What if my teen is shy or unsure about joining?",
+          "answer": "<p><span>That’s normal</span> - many students start out feeling nervous. Our approach is calm, warm, and encouraging. Within just one session, most teens begin to relax and even <span>enjoy</span> the process. We’ve seen shy students grow into confident learners who<span> look forward to lessons.</span></p>"
+        }
+      ]
+    ],
+    [
+      "What We Offer",
+      [
+        {
+          "question": "What does your learning specialist do?",
+          "answer": "<p>Our learning specialist observes how your teen works — not just what they know, but how they think, get stuck, and recover. She identifies patterns that teachers and parents often miss, then translates that into specific guidance for the teacher, practical adjustments to the learning plan, and where needed, a direct conversation with you or your teen. It's not a separate add-on session — it's a layer of expertise built into how we work.</p>"
+        },
+        {
+          "question": "What’s a guided practice session?",
+          "answer": "<p>An 80-minute online study block where 2–4 students work on their own homework or practice exam questions, each in their own breakout room. A math teacher rotates between rooms every few minutes — checking progress, catching mistakes, and giving targeted feedback in real time. It's not passive studying. Students get expert eyes on their work throughout the session. It works best for teens who can focus independently but benefit from structure, accountability, and a teacher who's actually there.</p>"
+        },
+        {
+          "question": "How long is a lesson?",
+          "answer": "<p>A Yeda lesson is 80 minutes: 25 minutes with your teen's teacher, 30 minutes of independent work, then another 25 minutes with the teacher. The independent block is where learning gets applied immediately. Students make progress on real tasks like homework, build the habit of working on their own, and come back to the teacher with actual questions. Teaching lands deeper when students have had a chance to try first.</p>"
+        },
+        {
+          "question": "Do you help with school homework?",
+          "answer": "<p>We don’t just “do homework” step by step - <span>we guide teens to learn how to</span> handle it on their own. They get strategies, structure, and confidence to manage assignments without stress.</p>"
+        }
+      ]
+    ],
+    [
+      "Programs & Pricing",
+      [
+        {
+          "question": "How is the number of lessons in each program decided?",
+          "answer": "<p>Our plans are designed around what works best for steady progress. We account for holidays and life events, so families don’t pay for unused time. It’s easy to add extra lessons if needed - flexibility without waste.</p>"
+        },
+        {
+          "question": "Can I buy a lesson without a program?",
+          "answer": "<p>Technically yes, but Yeda isn't built for one-off lessons. Our progress tracking, teacher matching, and parent updates are all designed around continuity — a single lesson doesn't give us much to work with. Lessons are also priced better within a program. That said, if your schedule doesn't allow for weekly sessions, we can tailor a program around a lower frequency. It's still a program — just paced differently.</p>"
+        },
+        {
+          "question": "Can I create a custom program?",
+          "answer": "<p>Absolutely. If our standard plans don't fit your schedule or goals, we'll build something that does.</p>"
+        },
+        {
+          "question": "Do you offer discounts or special offers?",
+          "answer": "<ul>\n<li>\n<p>We run occasional offers and have a referral program for families who recommend us to others. We work with modest margins, so we don't do heavy discounts — but we do reward loyalty and word of mouth. Follow our Yeda Updates to stay in the loop. If your family is facing financial challenges, reach out confidentially — we'll do our best to help.</p>\n</li>\n</ul>"
+        },
+        {
+          "question": "Do you do auto-renewals?",
+          "answer": "<p>No - you choose when and if to continue. We believe in transparent pricing, no hidden commitments.</p>"
+        },
+        {
+          "question": "What’s your cancellation or refund policy?",
+          "answer": "<p>We ask for at least 24 hours notice to cancel or reschedule a lesson at no charge. Late cancellations are subject to a partial or full session fee depending on how close to the lesson time we hear from you. Unused sessions can be refunded, minus a small processing fee. Extenuating circumstances are always reviewed with common sense — if something unexpected comes up, just reach out. For the full details, see our Terms &amp; Conditions page.</p>"
+        }
+      ]
+    ],
+    [
+      "Flexibility",
+      [
+        {
+          "question": "Can we switch programs later?",
+          "answer": "<p>Absolutely — and in practice, there's very little to \"switch.\" We charge based on actual usage, not on what you signed up for. If your teen ends up taking fewer sessions one month, you pay for what was used. The only thing that shifts is the per-lesson rate: the more sessions per month, the lower the price per session. So if your teen takes just one lesson in a given month, you pay the standard single-lesson rate ($88). Take more than your usual plan, and you simply pay the difference. No penalties, no awkward conversations.</p>"
+        },
+        {
+          "question": "Do unused sessions carry over?",
+          "answer": "<p>We prioritize steady progress over stockpiling. However, there's no need to carry sessions over — we only charge for what your teen actually uses. If a session didn't happen, it simply won't appear on your invoice. Just keep in mind that the per-session rate depends on how many sessions were taken that month, so a lighter month means a slightly higher rate per session. The exception is a session lost to a late cancellation, which may still be charged depending on the notice given.</p>"
+        },
+        {
+          "question": "How long do teens usually stay with Yeda?",
+          "answer": "<p>Most teens go through a real shift within 3 to 6 months — in mindset, independence, and confidence. Many reach a point where they simply don't need us anymore, and that's exactly what we're working toward. That said, a lot of our students genuinely enjoy their lessons, the relationship with their teacher, and the structure Yeda gives them — and some stay all the way through graduation. Either outcome is a good one. We're not here to create dependency; we're here to make ourselves unnecessary.</p>"
+        },
+        {
+          "question": "What languages do you work in?",
+          "answer": "<p>We mainly teach in English. For Math, some of our teachers also speak other languages - just ask if you need specific language support.</p>"
+        }
+      ]
+    ]
+  ]
+}

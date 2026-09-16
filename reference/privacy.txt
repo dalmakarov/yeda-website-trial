@@ -1,0 +1,115 @@
+Privacy Policy - Yeda
+Last updated: July 21, 2026 · Version: V3.0 · Website: getyeda.com
+Yeda BV ("Yeda", "we", "us") provides online tutoring services for teens, including 1:1 Lessons (Math, English, Physics, and learning skills), guided Practice Sessions, Learning Specialist services, and the Yeda Student Card (see Section 5.1). We act as the data controller for personal data processed via our website, booking pages and service delivery. This Policy aligns with the EU General Data Protection Regulation (GDPR) and Belgian data protection law.
+1) Who we are (Controller)
+Controller: Yeda BV, Tiensesteenweg 247, 3360 Bierbeek, Belgium. VAT: BE1032162449 Privacy contact / data subject requests:
+info@getyeda.com
+2) Scope & audience
+This Policy applies to: (a) Customers (parents/guardians or adult students), (b) Students (teens who attend lessons/sessions), and (c) website visitors and prospective clients.
+​
+3) Personal data we collect
+Identity & contact data (name, email, phone, city/country, parent/guardian relationship).
+Booking & session data (service type, teacher, date/time, attendance; brief notes limited to educational context).
+Learning & progress data (teacher post-lesson feedback, parent input, student self-reflection, grades shared with us; used for the Student Card where consent is given - see Section 5.1).
+Communications (emails, messages related to scheduling/support).
+Payment-related data (payer name, amount, currency, transaction references; for card/wallet payments we receive tokens/last 4 digits from processors — we do not store full card details).
+Technical data (IP address, device/browser information, approximate location).
+Cookies/Ad identifiers (subject to consent; see Cookies).
+Consents & preferences (e.g., marketing consent, cookie choices, Student Card participation).
+4) Where data comes from
+Directly from you (booking forms, emails, calls, onboarding questionnaire).
+From Students and teachers during service delivery (session feedback, self-reflections, progress observations).
+Automatically via our website/booking tools (technical data, cookies).
+Payment processors/banks (transaction confirmations).
+Video platforms used to attend lessons/sessions (e.g., display name, connection data).
+5) Why we use data (purposes) & legal bases
+We process personal data for the purposes below under GDPR Art. 6. Where consent is required, you can withdraw it at any time (this does not affect prior lawful processing).
+Service delivery & administration (bookings, lessons/sessions, billing based on usage). Legal basis: contract (Art. 6(1)(b)).
+Customer support & communications. Legal basis: contract/legitimate interests (Art. 6(1)(b)/(f)).
+Invoicing, accounting & compliance. Legal basis: legal obligation (Art. 6(1)(c)).
+Service improvement, quality & security (including limited analytics, debugging). Legal basis: legitimate interests (Art. 6(1)(f)).
+Marketing communications (news/offers to Customers). Legal basis: consent (Art. 6(1)(a)); where ePrivacy rules allow "soft opt-in" to existing Customers for similar services, we rely on legitimate interests with an easy opt-out.
+Testimonials & media (quotes, photos, recordings). Legal basis: consent (Art. 6(1)(a)).
+Student Card (AI-assisted learning overview). Legal basis: consent (Art. 6(1)(a)) — see Section 5.1.
+Cookies & remarketing tags (Google Ads, Meta/Facebook/Instagram) used on the website. Legal basis: consent via the Cookie Banner/Preferences.
+5.1) The Yeda Student Card
+What it is:
+an internal tool that brings together information about a Student's learning journey — teacher post-lesson feedback, parent input, student self-reflections, and grade updates — into one organized overview. It helps our team see the full picture and track progress over time.
+Participation is optional.
+Every Customer is asked whether they want to participate via a standalone consent form. Declining has no effect on the quality of teaching or any other aspect of our service.
+Use of AI:
+the Student Card uses AI tools to organize and summarize the information described above. Before any AI processing, directly identifying information (names, contact details, address) is removed or masked. The AI's role is strictly limited to organizing information into an overview and flagging pre-defined occurrences for human attention (for example, a drop in grades or a student expressing dissatisfaction with lessons). The AI does not evaluate the Student, make recommendations, or make any decisions. All conclusions and any adjustments to a Student's learning plan are made by our team — qualified humans, led by our learning specialist.
+No automated decision-making:
+we do not use the Student Card (or any other tool) to make decisions with legal or similarly significant effects on Students. The Student Card is a support tool for human judgment.
+No health or special-category data:
+the Student Card does not contain medical or health-related diagnoses or other special-category data under Article 9 GDPR. Where the learning specialist contributes input, it takes the form of educational best-practice guidance on how to work with the Student, not clinical or health information.
+​
+Use & sharing:
+the Student Card is used internally by Yeda to inform our team's work and periodic updates shared with the Customer. Teachers receive only selected outputs relevant to their work, not the full card. It is never published, shared with advertisers, or used for any commercial purpose beyond delivering our service.
+Legal basis:
+consent (Art. 6(1)(a)), collected from the Customer (parent/guardian for minors) via a standalone consent form. Consent can be withdrawn at any time; upon withdrawal, we stop the processing and delete the Student Card data (subject to legal retention obligations for business records).
+Retention:
+up to 12 months after last activity, or earlier upon request or withdrawal of consent.
+6) Students and minors (13-17)
+Our programs are designed for teens. A parent/guardian acts as the Customer for minors; we do not knowingly enter into contracts directly with minors. Optional uses (e.g., testimonials, recordings, Student Card participation) require parental consent. Our marketing communications are addressed to parents/guardians.
+7) Do we record lessons/sessions?
+No, not by default. Any recording requires prior explicit consent, requested during onboarding, with a clear notice of purpose, access and retention. If consent is refused, recording will not occur for that participant.
+8) Payments & processors
+We may accept the following payment methods:
+Bank transfer (wire/SEPA) — we process payer details appearing on statements; banks act as independent controllers.
+Card payments via Stripe (if offered) — Stripe tokenizes card details; we do not store full card numbers.
+PayPal (if offered) — we receive transaction confirmations from PayPal; PayPal is an independent controller for its wallet service.
+Other methods may be added; we will update this Policy and our checkout notices accordingly.
+9) Tools we use & who we share data with
+We share data only as necessary for the purposes above, with appropriate contracts and safeguards:
+IT & cloud: Microsoft 365/SharePoint/OneDrive; Microsoft Teams; Zoom (lesson delivery & collaboration).
+Scheduling & learning tools: our lesson booking system and collaborative learning boards.
+AI processing (Student Card only, with consent): approved AI service providers, receiving only pseudonymized data as described in Section 5.1.
+Communications: email and messaging tools used for scheduling/support.
+Payments: Stripe and/or PayPal (if enabled), and our banking providers.
+Advertising tags (website): Google Ads and Meta (Facebook/Instagram) Pixel for remarketing/ad measurement — loaded only if you consent.
+Accounting & professional advisors (where necessary).
+These parties act as processors or independent controllers depending on context.
+10) International transfers
+If personal data is transferred outside the EEA/UK (e.g., by Microsoft, Zoom, Meta, Google, Stripe, PayPal, or AI service providers), we implement appropriate safeguards such as Standard Contractual Clauses (SCCs) and assess transfer risks where required. Details are available on request and via the Cookie Banner for web tags.
+11) How long we keep data (retention)
+Accounting, tax and legally required business records: retained for the period required by applicable law (in Belgium, generally up to 10 years).
+Booking/session logs & entitlements: 24 months after last activity.
+Student Card data: up to 12 months after last activity, or earlier upon request/withdrawal of consent.
+Support communications: 24 months after resolution/last contact.
+Marketing lists: until consent is withdrawn or 24 months of inactivity.
+Recordings (if any, with consent): up to 90 days unless a shorter period is specified at the time of consent.
+12) Security
+We apply technical and organizational measures appropriate to risk, including access controls, encryption in transit, role-based permissions, least-privilege, pseudonymization before AI processing, staff confidentiality and periodic reviews. No method of transmission or storage is 100% secure; we continuously improve safeguards.
+13) Your privacy rights (GDPR) & how to exercise them
+You have the right to access, rectify, erase, restrict, and port your data, and to object to processing based on legitimate interests. Where we rely on consent (including for the Student Card), you can withdraw it at any time. You may also lodge a complaint with the Belgian Data Protection Authority (GBA/APD).
+​
+How to exercise: email
+info@getyeda.com
+from the address used with us; we may verify your identity. We aim to respond within one month (extendable by two months for complex requests). Some rights may be limited by legal obligations (e.g., accounting retention).
+14) Cookies & similar technologies
+Our website uses necessary cookies and, with your consent, advertising/remarketing tags (currently Google Ads conversion/remarketing and Meta Pixel). We only place non-essential cookies/tags after you have provided valid consent in our cookie banner. You can manage or withdraw consent at any time via the Your Privacy Choices link in the footer.
+15) Public pages & social media
+We operate public pages on Instagram, Facebook, TikTok and LinkedIn. Your interactions with those pages are also subject to each platform's own Terms and Privacy Policy.
+​
+16) Changes to this Policy
+We may update this Policy to reflect legal, technical or business changes. We will indicate the updated date above and, where appropriate, notify you on the website or by email.
+​
+17) Contact & supervisory authority
+Controller contact:
+info@getyeda.com
+Address: Tiensesteenweg 247, 3360 Bierbeek, Belgium. Belgian Data Protection Authority (GBA/APD): You can lodge a complaint with the supervisory authority if you believe your rights have been infringed.
+© 2026 Yeda BV — Privacy Policy
+Facebook
+Instagram
+TikTok
+YouTube
+Main Office
+Tiensesteenweg 247
+Bierbeek, Belgium
+BE1032162449
++32467300331
+hello@getyeda.com
+Privacy Policy
+Terms & Conditions
+Blog
