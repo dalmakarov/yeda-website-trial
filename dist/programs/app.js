@@ -12,3 +12,4 @@ if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&'IntersectionObserve
 
 const localRoutes={'https://www.getyeda.com/':'/','https://www.getyeda.com/programs':'/programs/','https://www.getyeda.com/about':'/about/','https://www.getyeda.com/team':'/team/','https://www.getyeda.com/contact':'/contact/','https://www.getyeda.com/first-lesson-us':'/first-lesson-us/'};
 document.querySelectorAll('a[href]').forEach(link=>{if(localRoutes[link.href])link.href=localRoutes[link.href];});
+if(!document.querySelector('link[rel="icon"]')){const icon=document.createElement('link');icon.rel='icon';icon.type='image/png';icon.href='/assets/yeda-logo.png';document.head.append(icon);}
